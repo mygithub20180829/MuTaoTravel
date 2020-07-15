@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MuTaoTravel</string>
+    <string-array name="main_menu">
+        <item>飞机票</item>
+        <item>住酒店</item>
+        <item>去旅游</item>
+        <item>周边游</item>
+        <item>买门票</item>
+        <item>火车票</item>
+        <item>汽车票</item>
+        <item>领里程</item>
+    </string-array>
+
+    <string-array name="main_menu2">
+        <item>国际机票</item>
+        <item>签证服务</item>
+        <item>飞机接送</item>
+    </string-array>
+
+    <string-array name="find_menu">
+        <item>旅游热讯</item>
+        <item>广场动态</item>
+        <item>热点地带</item>
+        <item>边走边买</item>
+    </string-array>
+
+    <string-array name="find_menu2">
+        <item>结伴而行\n一起才好玩</item>
+        <item>激励智囊\n教你玩世界</item>
+        <item>旅游直播\n分享精彩游</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
